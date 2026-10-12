@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Placeholder app icon: replace with the real artwork (keep the 512x512 canvas and the safe margin). -->
+  <rect width="512" height="512" rx="96" fill="#101014" />
+  <rect x="67.327682" y="67.327682" width="377.34464" height="377.34464" rx="70.752121" fill="none" stroke="#b6f09c"
+    stroke-width="28" />
+  <path d="m 176.40387,167.55985 159.19226,88.44014 -159.19226,88.44016 z" fill="#b6f09c" />
+</svg>
